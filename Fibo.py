@@ -1,4 +1,3 @@
-import math
 import sys
 def Fibo(num):
 	if num <= 2:
