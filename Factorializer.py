@@ -1,3 +1,4 @@
+#Christian Ng
 import sys
 
 def Factorializer(number):
