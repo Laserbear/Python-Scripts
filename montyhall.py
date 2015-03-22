@@ -1,3 +1,4 @@
+#Christian Ng
 import random
 
 class Door(object):
