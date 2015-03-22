@@ -1,3 +1,4 @@
+# Christian Ng 
 import sys
 def Fibo(num):
 	if num <= 2:
